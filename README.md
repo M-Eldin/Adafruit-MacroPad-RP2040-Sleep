@@ -22,8 +22,10 @@ autoscreen = AutoOffScreen(60 * 5)
 ```
 _after 5 minutes of inactivey, MacroPad enters sleep_
 
-## Troublshooting 
+## Troubleshooting 
 
-Press Reset button after adding files to CIRCUITPY directoy 
+_After copying over files, Macropad updates but screen turns off and does not "wake"_ 
+
+- Press Reset button after adding files to CIRCUITPY directoy 
 
 ![adafruit_products_MacroPad_boot_reset](https://user-images.githubusercontent.com/85906111/153274775-de28b512-bf4d-4843-bfbb-d65cfec14ca8.png)
